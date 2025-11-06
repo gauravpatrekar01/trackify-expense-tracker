@@ -44,6 +44,16 @@ src/
  ┣ main.tsx            # Entry point
  ┣ App.tsx             # Root component
 
+##📜 License
+
+This project is open-source and available under the MIT License.
+
+##👨‍💻 Author
+
+@gauravpatrekar01
+
+Built with ❤️ using React, Vite, and Supabase.
+
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
@@ -51,12 +61,4 @@ src/
 git clone https://github.com/gauravpatrekar01/trackify-expense-tracker.git
 cd trackify-expense-tracker
 
-📜 License
 
-This project is open-source and available under the MIT License.
-
-👨‍💻 Author
-
-@gauravpatrekar01
-
-Built with ❤️ using React, Vite, and Supabase.
